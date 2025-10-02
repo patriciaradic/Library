@@ -1,0 +1,290 @@
+* {
+  box-sizing: border-box;
+}
+
+.book-detail {
+  padding: 20px;
+  font-family: Inter, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+.btn-back {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  color: black;
+  height: 35px;
+  width: 35px;
+}
+
+.btn {
+padding: 6px 12px;
+border: none;
+cursor: pointer;
+border-radius: 6px;
+font-size: 14px;
+}
+
+
+.btn.primary {
+background-color: #000;
+color: white;
+margin: 0 8px;
+}
+
+
+.btn.primary:hover {
+background-color: #252a34;
+}
+
+.btn.secondary {
+background-color: #000;
+color: white;
+}
+
+
+.btn.secondary:hover {
+background-color: #252a34;
+}
+
+.btn.ternary {
+padding: 6px 12px;
+background-color: #F7F6F2;
+color: black;
+}
+
+.btn.ternary:hover {
+background-color: #f1eee3;
+}
+
+
+.book-detail-header {
+  display: flex;
+  position: relative;
+  z-index: 2;
+  padding-right: 70px;
+  margin-bottom: -100px; /* pull up the next container */
+}
+
+.book-cover-wrapper {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 40px;
+  position: relative;
+  align-items: flex-end;
+}
+
+.book-detail-cover {
+  max-width: 300px;
+  width: auto;
+  height: auto;
+  margin-left: 40px;
+  margin-top: 40px;
+  z-index: 2;
+  position: relative;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  border-radius: 6px;
+  object-fit: contain;
+}
+
+.book-info-wrapper {
+  flex: 2;
+  padding-left: 40px;
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: left;
+  margin-top: 40px;
+  max-width: 600px;
+}
+
+.book-title {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+  margin-top: 0;
+}
+
+.book-byline {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 16px;
+}
+
+.book-actions {
+  display: flex;
+  gap: 10px; 
+  align-items: center;
+  z-index: 2;
+  position: relative;
+  margin-top: 50px;
+}
+
+
+.book-detail-card {
+  display: flex;
+  background-color: white;
+  padding: 120px 60px 40px; /* enough top padding for overlap */
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  position: relative;
+  z-index: 1;
+}
+
+.book-detail-left {
+  flex: 3;
+  padding-right: 40px;
+  text-align: left;
+}
+
+.book-detail-right {
+  flex: 1;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.detail-group {
+  display: flex;
+  flex-direction: column;
+  gap: 2px; /* small gap between label and value */
+  margin-top: 20px;
+}
+
+.detail-label {
+  margin: 0;
+}
+
+.detail-value {
+  margin: 0;
+  color: #444;
+}
+
+
+.pill-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.pill {
+  background-color: #fdfbf7;
+  border: 1px solid #dc5f6a;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  color: #333;
+}
+
+.rating-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.rating-text {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+
+.related-sections {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* one or two columns */
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.related-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 0.75rem;
+}
+
+.related-header h3 {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center; 
+}
+
+.chevron-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: inherit;
+  text-decoration: none;
+  padding: 4px; 
+  padding-top: 0;
+  margin: 0;
+}
+
+.chevron-link svg {
+  display: block;
+  width: 20px;
+  height: 20px;
+  transform: translateY(-3px);
+}
+
+.chevron-link:hover {
+  color: #dc5f6a;
+}
+
+
+.related-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.related-section h3 {
+  margin-bottom: 0.75rem;
+}
+
+.related-section p {
+  text-align: left;
+}
+
+.related-books {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.related-book {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-decoration: none;
+  color: inherit;
+  width: 91px; /* align text width with cover */
+}
+
+.related-book:hover {
+  color: #dc5f6a;
+}
+
+.related-book-cover {
+  width: 91px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.related-book-title {
+  margin-top: 0.25rem;
+  font-size: 0.75rem;
+  text-align: left;
+  line-height: 1.2;
+}
+
+h3 {
+  text-align: left;
+}
+
+.borrow-sections p {
+  text-align: left;
+}

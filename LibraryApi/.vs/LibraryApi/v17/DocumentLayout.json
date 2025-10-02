@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|c:\\users\\patrepc\\source\\repos\\library\\libraryapi\\libraryapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|c:\\users\\patrepc\\source\\repos\\library\\libraryapi\\libraryapi\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|c:\\users\\patrepc\\source\\repos\\library\\libraryapi\\libraryapi\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|c:\\users\\patrepc\\source\\repos\\library\\libraryapi\\libraryapi\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|c:\\users\\patrepc\\source\\repos\\library\\libraryapi\\libraryapi\\controllers\\borrowedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\controllers\\borrowedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|c:\\users\\patrepc\\source\\repos\\library\\libraryapi\\libraryapi\\models\\borrowed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\models\\borrowed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|c:\\users\\patrepc\\source\\repos\\library\\libraryapi\\libraryapi\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|c:\\users\\patrepc\\source\\repos\\library\\libraryapi\\libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD41A5C-1EB3-43F0-A9F3-EAA36EDE67FD}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "LibraryApi\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "LibraryApi\\Data\\LibraryContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:18:49.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "LibraryApi\\Models\\Books.cs",
+              "ToolTip": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Models\\Books.cs",
+              "RelativeToolTip": "LibraryApi\\Models\\Books.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:55:36.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:37:24.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryApi\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Models\\Member.cs",
+              "RelativeToolTip": "LibraryApi\\Models\\Member.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:15:36.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "LibraryApi\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "LibraryApi\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAewD4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:38:50.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Borrowed.cs",
+              "DocumentMoniker": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Models\\Borrowed.cs",
+              "RelativeDocumentMoniker": "LibraryApi\\Models\\Borrowed.cs",
+              "ToolTip": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Models\\Borrowed.cs",
+              "RelativeToolTip": "LibraryApi\\Models\\Borrowed.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:16:28.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BorrowedController.cs",
+              "DocumentMoniker": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\BorrowedController.cs",
+              "RelativeDocumentMoniker": "LibraryApi\\Controllers\\BorrowedController.cs",
+              "ToolTip": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\BorrowedController.cs",
+              "RelativeToolTip": "LibraryApi\\Controllers\\BorrowedController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAgwIgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:39:24.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryApi\\Program.cs",
+              "ToolTip": "C:\\Users\\PatrePC\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Program.cs",
+              "RelativeToolTip": "LibraryApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:20:14.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
